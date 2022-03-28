@@ -11,7 +11,6 @@
   inputs.src-expat-master.ref   = "refs/heads/master";
   inputs.src-expat-master.owner = "nim-lang";
   inputs.src-expat-master.repo  = "expat";
-  inputs.src-expat-master.dir   = "";
   inputs.src-expat-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
