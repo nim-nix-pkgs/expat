@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/nim-lang/expat",
   "refs": [
-    "fatal: unable to access 'https://github.com/nim-lang/expat/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/nim-lang/expat/': Failed to connect to github.com port 443 after 1453 ms: No route to host",
     ""
   ],
   "heads": []
